@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crimeapp/static/css/main.d8564148.css",
+    "main.js": "/crimeapp/static/js/main.cc488168.js",
+    "static/js/787.28cb0dcd.chunk.js": "/crimeapp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/rainbow.png": "/crimeapp/static/media/rainbow.86a6e25988f982257a5b.png",
+    "index.html": "/crimeapp/index.html",
+    "main.d8564148.css.map": "/crimeapp/static/css/main.d8564148.css.map",
+    "main.cc488168.js.map": "/crimeapp/static/js/main.cc488168.js.map",
+    "787.28cb0dcd.chunk.js.map": "/crimeapp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8564148.css",
+    "static/js/main.cc488168.js"
+  ]
+}
